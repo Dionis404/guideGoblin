@@ -16,3 +16,7 @@ icon: notebook
 [vozmozhnye-zadaniya-novogo-sezona.md](vozmozhnye-zadaniya-novogo-sezona.md)
 {% endcontent-ref %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
