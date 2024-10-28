@@ -4,7 +4,7 @@
 
 ## Гайды <a href="#guide" id="guide"></a>
 
-* [Первый гайд](guide/pervyi-gaid.md)
+* [Лайфхаки](guide/laifkhaki.md)
 
 ***
 
