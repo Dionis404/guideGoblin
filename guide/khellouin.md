@@ -9,29 +9,33 @@ description: Как поспасть на остров?
 Открываем карту и в самом низу будет остров.\
 Кликаем и перемещаемся на него.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ## Остров
 
 Попадая на остров можно кликнуть на доску что бы узнать о ивенте больше
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Донат
 
 Если вы задонатите более 3 Pol то после ивента получите тематический декор.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Основанная задача
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<div align="left">
 
-Основная суть ивента в том что бы набрать как можно больше очков в мини игре.
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Суть заключается в том что бы выжить как можно дольше тем самым набрать как больше очков.\
+</div>
+
+Основная суть ивента в том что бы набрать как можно больше очков в мини игре, для этого нужно выжить как можно дольше тем самым набрать как больше очков. (31.10 был обнаружен баг таблица лидеров будет сброшена 1.11) \
 <mark style="color:red;">Внимание вам дается 1 попытка в день.</mark>
 
 #### Как выжить дольше
@@ -39,20 +43,20 @@ description: Как поспасть на остров?
 * Собирайте факелы - чем больше факелом тем больше обзор
 * Факелы - ваши жизни, как только факелы у вас закончатся у вас будет 10 секунд что бы найти новый.
 * Призраки и зомби - опасайтесь данных монстров они вам не друзья, при столкновении вы потеряете факелы и будете замедлены.
-* Износ - современем у вас повышается изнок ваших факелов и они гастнут быстрее.
+* Износ - со временем у вас повышается износ ваших факелов и они гаснут быстрее.
 
 Если вы хотите то можете докупить попытки.
 
 * 3 попытки будут стоить 10 SFL
 * Без лимит на день будет стоить 25 SFL
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="310"><figcaption></figcaption></figure>
 
 ### Таблица лидеров
 
 Таблица лидеров обновляется каждые 5 минут.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="326"><figcaption></figcaption></figure>
 
 ## Награды
 
@@ -75,4 +79,26 @@ description: Как поспасть на остров?
 
 11-25-й: 250 $SFL&#x20;
 
-26-100-й: 100 $SFL.
+26-100-й: 100 $SFL&#x20;
+
+
+
+## Жертвоприношение
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="316"><figcaption></figcaption></figure>
+
+На острове есть Luna которая принимает в жертву медведей, жертва будет не просто так. \
+Вы получите Короля медведей.&#x20;
+
+<div align="left">
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+В данное время доступ в эту локацию можно получить только используя баг в текстурах. \
+Ждем обновления.&#x20;
