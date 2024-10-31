@@ -4,6 +4,7 @@
 
 ## Гайды <a href="#guide" id="guide"></a>
 
+* [Хэллоуин](guide/khellouin.md)
 * [Лайфхаки](guide/laifkhaki.md)
 
 ***
