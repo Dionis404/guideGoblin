@@ -1,9 +1,11 @@
 # Table of contents
 
 * [Гоблинский путеводитель](README.md)
+* [Run Bull](run-bull.md)
 
 ## Гайды <a href="#guide" id="guide"></a>
 
+* [Мегамагазин Стеллы](guide/megamagazin-stelly.md)
 * [Хэллоуин](guide/khellouin.md)
 * [Лайфхаки](guide/laifkhaki.md)
 
