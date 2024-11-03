@@ -1,5 +1,6 @@
 ---
 description: Как поспасть на остров?
+icon: jack-o-lantern
 ---
 
 # Хэллоуин
