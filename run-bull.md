@@ -63,10 +63,11 @@ icon: skull-cow
 
 Декор:&#x20;
 
-| Black Sheep    | 50  |
-| -------------- | --- |
-| UFO            | 100 |
-| Shepherd Staff | 350 |
+| Название       | Саплай |
+| -------------- | ------ |
+| Black Sheep    | 50     |
+| UFO            | 100    |
+| Shepherd Staff | 350    |
 
 ## Сезонный магазин
 
