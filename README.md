@@ -12,6 +12,10 @@ icon: notebook
 
 Пока что все полезные статьи будут тут ⬇️
 
+{% content-ref url="run-bull.md" %}
+[run-bull.md](run-bull.md)
+{% endcontent-ref %}
+
 {% content-ref url="vozmozhnye-zadaniya-novogo-sezona.md" %}
 [vozmozhnye-zadaniya-novogo-sezona.md](vozmozhnye-zadaniya-novogo-sezona.md)
 {% endcontent-ref %}
