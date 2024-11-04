@@ -53,9 +53,17 @@ icon: ram
   Подробнее: [https://sfl.world/info/animals](https://sfl.world/info/animals)
 * С ростом уровня также возрастает вероятность, что животное может заболеть, поэтому следите за их состоянием.
 * Животные после сбора впадают в спячку на 24 часа (без учёта бустов), после чего она снова становятся голодными.
-*   Иногда животные требуют внимания, для этого надо использовать инструменты&#x20;
+* Иногда животные требуют внимания, для этого надо использовать инструменты&#x20;
 
-    <figure><img src="../.gitbook/assets/Инструменты.png" alt=""><figcaption></figcaption></figure>
+<div>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Инструменты.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ## Мутанты
 
