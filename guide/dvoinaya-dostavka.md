@@ -15,11 +15,11 @@ icon: forward
 
 * Информацию о доступности двойной награды можно найти в **Кодексе**.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 *   Также статус награды отображается при открытии **диалогового окна с NPC**, который отвечает за доставку.
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="376"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="376"><figcaption></figcaption></figure>
 
 ### Важное замечание
 

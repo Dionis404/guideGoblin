@@ -17,4 +17,5 @@
 
 ## Архив <a href="#archive" id="archive"></a>
 
+* [Статистика сезона Pharaoh's Treasure](archive/statistika-sezona-pharaohs-treasure.md)
 * [Сезоны](archive/sezony.md)

@@ -16,13 +16,13 @@ description: Как поспасть на остров?
 
 Попадая на остров можно кликнуть на доску что бы узнать о ивенте больше
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Донат
 
 Если вы задонатите более 3 Pol то после ивента получите тематический декор.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Основанная задача
 
@@ -86,14 +86,14 @@ description: Как поспасть на остров?
 
 ## Жертвоприношение
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="316"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="316"><figcaption></figcaption></figure>
 
 На острове есть Luna которая принимает в жертву медведей, жертва будет не просто так. \
 Вы получите Короля медведей.&#x20;
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
