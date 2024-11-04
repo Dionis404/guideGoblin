@@ -1,6 +1,6 @@
 ---
-description: Как поспасть на остров?
 icon: jack-o-lantern
+description: Как поспасть на остров?
 ---
 
 # Хэллоуин
@@ -16,7 +16,7 @@ icon: jack-o-lantern
 
 Попадая на остров можно кликнуть на доску что бы узнать о ивенте больше
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Донат
 
@@ -93,7 +93,7 @@ icon: jack-o-lantern
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
  
 
