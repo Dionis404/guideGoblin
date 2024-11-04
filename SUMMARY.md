@@ -5,6 +5,7 @@
 
 ## Гайды <a href="#guide" id="guide"></a>
 
+* [Животные](guide/zhivotnye.md)
 * [Двойная доставка](guide/dvoinaya-dostavka.md)
 * [Сезонный Магазин](guide/sezonnyi-magazin.md)
 * [Хэллоуин](guide/khellouin.md)
