@@ -6,9 +6,6 @@
 ## Гайды <a href="#guide" id="guide"></a>
 
 * [Животные](guide/zhivotnye.md)
-* [Двойная доставка](guide/dvoinaya-dostavka.md)
-* [Сезонный Магазин](guide/sezonnyi-magazin.md)
-* [Хэллоуин](guide/khellouin.md)
 * [Лайфхаки](guide/laifkhaki.md)
 
 ***
@@ -19,3 +16,9 @@
 
 * [Статистика сезона Pharaoh's Treasure](archive/statistika-sezona-pharaohs-treasure.md)
 * [Сезоны](archive/sezony.md)
+* [Хэллоуин](archive/khellouin.md)
+
+## Gear
+
+* [Двойная доставка](gear/dvoinaya-dostavka.md)
+* [Сезонный Магазин](gear/sezonnyi-magazin.md)
