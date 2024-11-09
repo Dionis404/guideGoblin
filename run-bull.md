@@ -79,7 +79,9 @@ icon: skull-cow
 [sezonnyi-magazin.md](gear/sezonnyi-magazin.md)
 {% endcontent-ref %}
 
-Самый оптимальный путь для открытия доступа к Mega предмета, расчет сделан без затрат SFL. \
+Самый оптимальный путь для открытия доступа к Mega предмета, расчет сделан без затрат SFL.&#x20;
+
+Обратите внимание что без черепов вам придется потратить на 250 подков больше и 412.5 SFL\
 
 
 <figure><img src=".gitbook/assets/image.png" alt="" width="365"><figcaption></figcaption></figure>
