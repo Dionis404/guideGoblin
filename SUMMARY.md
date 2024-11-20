@@ -20,5 +20,6 @@
 
 ## Gear
 
+* [Вывод](gear/vyvod.md)
 * [Двойная доставка](gear/dvoinaya-dostavka.md)
 * [Сезонный Магазин](gear/sezonnyi-magazin.md)
