@@ -16,7 +16,7 @@ description: Как поспасть на остров?
 
 Попадая на остров можно кликнуть на доску что бы узнать о ивенте больше
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Донат
 
@@ -26,15 +26,7 @@ description: Как поспасть на остров?
 
 ### Основанная задача
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure></div>
 
 Основная суть ивента в том что бы набрать как можно больше очков в мини игре, для этого нужно выжить как можно дольше тем самым набрать как больше очков. (31.10 был обнаружен баг таблица лидеров будет сброшена 1.11) \
 <mark style="color:red;">Внимание вам дается 1 попытка в день.</mark>
@@ -91,29 +83,13 @@ description: Как поспасть на остров?
 На острове есть Luna которая принимает в жертву медведей, жертва будет не просто так. \
 Вы получите Короля медведей.&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure></div>
 
 Как пройти через лес?&#x20;
 
 Изначально вам необходимо прочитать книгу возле леса, она даст вам подсказку о том что вам нужен свет.&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure></div>
 
 Что бы путь открылся необходимо найти факел на острове. Что бы избежать спойлеров и дать вам шанс найти факел самостоятельно скриншот будет [спрятан](https://t.me/SFLSpolll/3).&#x20;
 
