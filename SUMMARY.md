@@ -23,3 +23,9 @@
 * [Вывод](gear/vyvod.md)
 * [Двойная доставка](gear/dvoinaya-dostavka.md)
 * [Сезонный Магазин](gear/sezonnyi-magazin.md)
+
+## Прочее
+
+* [Merkl](prochee/merkl.md)
+* [Пул ликвидности на QuickSwap](prochee/pul-likvidnosti-na-quickswap.md)
+* [Пул ликвидности на Steer](prochee/pul-likvidnosti-na-steer.md)

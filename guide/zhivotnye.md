@@ -59,15 +59,7 @@ icon: ram
 * Животные после сбора впадают в спячку на 24 часа (без учёта бустов), после чего они снова становятся голодными.
 * Иногда животные требуют внимания, для этого надо использовать инструменты&#x20;
 
-<div>
-
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/Инструменты.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Инструменты.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Мутанты
 

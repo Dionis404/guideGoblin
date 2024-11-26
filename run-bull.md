@@ -90,7 +90,7 @@ icon: skull-cow
 Общая сумма для получения Mega предмета составит 8400 подков и 305 черепов. \
 
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="365"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="365"><figcaption></figcaption></figure>
 
 
 

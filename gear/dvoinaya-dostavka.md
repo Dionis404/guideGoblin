@@ -8,12 +8,12 @@ icon: forward
 
 В день двойной доставки **в кодексе** будет соответствующая надпись. Также статус награды отображается при открытии **диалогового окна с NPC.**&#x20;
 
-<div><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="376"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="376"><figcaption></figcaption></figure></div>
 
 Дату следующего дня с двойной наградой сообщает Тыквенный Пит на плазе. \
 Сообщение можно увидеть на слебующий день после дня двойной награды.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Важное замечание
 
