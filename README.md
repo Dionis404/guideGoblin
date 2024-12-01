@@ -16,8 +16,8 @@ icon: notebook
 [run-bull.md](run-bull.md)
 {% endcontent-ref %}
 
-{% content-ref url="vozmozhnye-zadaniya-novogo-sezona.md" %}
-[vozmozhnye-zadaniya-novogo-sezona.md](vozmozhnye-zadaniya-novogo-sezona.md)
+{% content-ref url="archive/arkhivnye-stati/vozmozhnye-zadaniya-novogo-sezona.md" %}
+[vozmozhnye-zadaniya-novogo-sezona.md](archive/arkhivnye-stati/vozmozhnye-zadaniya-novogo-sezona.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

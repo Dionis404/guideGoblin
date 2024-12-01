@@ -9,14 +9,14 @@
 Прямая ссылка на пул ликвидности: [Pool on QuickSwap ](https://quickswap.exchange/#/pools?currency0=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174\&currency1=0xD1f9c58e33933a993A3891F8acFe05a68E1afC05)\
 Вложить можно только пару UDSC\SFL. (Single Sided недоступен)&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Далее необходимо выбрать диапазон цен, если вы не знаете что делаете выбирайте между Safe или Common. (Менее рискованные варианты)  \
 Или настройте минимальную и максимальную цены в ручную (Только если вы понимаете что делаете)&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Выбираем необходимое кол-во токенов которые хотим отправить в Pool \
 (Может потребоваться Approve токенов)&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

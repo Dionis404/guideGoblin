@@ -8,15 +8,13 @@
 * [Животные](guide/zhivotnye.md)
 * [Лайфхаки](guide/laifkhaki.md)
 
-***
-
-* [Возможные задания нового сезона](vozmozhnye-zadaniya-novogo-sezona.md)
-
 ## Архив <a href="#archive" id="archive"></a>
 
 * [Статистика сезона Pharaoh's Treasure](archive/statistika-sezona-pharaohs-treasure.md)
 * [Сезоны](archive/sezony.md)
 * [Хэллоуин](archive/khellouin.md)
+* [Архивные статьи](archive/arkhivnye-stati/README.md)
+  * [Возможные задания нового сезона](archive/arkhivnye-stati/vozmozhnye-zadaniya-novogo-sezona.md)
 
 ## Gear
 
@@ -26,6 +24,6 @@
 
 ## Прочее
 
-* [Merkl](prochee/merkl.md)
-* [Пул ликвидности на QuickSwap](prochee/pul-likvidnosti-na-quickswap.md)
-* [Пул ликвидности на Steer](prochee/pul-likvidnosti-na-steer.md)
+* [Merkl](prochee/merkl/README.md)
+  * [Пул ликвидности на QuickSwap](prochee/merkl/pul-likvidnosti-na-quickswap.md)
+  * [Пул ликвидности на Steer](prochee/merkl/pul-likvidnosti-na-steer.md)

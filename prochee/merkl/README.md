@@ -32,4 +32,4 @@ icon: chart-mixed-up-circle-dollar
     Справа можно увидеть статистику по клейму наград. \
     Снизу можно проверить активные пулы.&#x20;
 
-    <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>

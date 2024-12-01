@@ -8,16 +8,16 @@
 
 Переходим на [https://app.steer.finance/](https://app.steer.finance/)  в поиск вводим SFL и перед нами появляется список все возможных пар токенов. Выбираем USDC/SFL.
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 Открывается список Active Smart Pools, данные Pools может создать любой, если по простому то вы доверяете управление пулом другому человеку которые регулирует максимальную и минимальную цену. \
 В Hidden Vaults скрыты пулы в которых менее 50$ активов.&#x20;
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 Выбрав Активный пул вы можете более подробно ознакомится с его стратегией. \
 
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Тут можно вложить как пару так и только USDC или SFL . (Может потребоваться Approve токенов) \
